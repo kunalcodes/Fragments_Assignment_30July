@@ -1,0 +1,2 @@
+rootProject.name = "Static_Fragments"
+include ':app'
